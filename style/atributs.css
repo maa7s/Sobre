@@ -1,0 +1,13 @@
+#g1{
+    position: relative;
+    width: 100%;
+    top: 150px;
+    border-radius: 4px;
+}
+
+#g2{
+    position: relative;
+    width: 100%;
+    top: 300px;
+    border-radius: 4px;
+}

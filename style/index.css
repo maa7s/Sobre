@@ -1,0 +1,16 @@
+#box{
+    position: relative;
+    width: 100%;
+    top: 10px;
+    border-radius: 4px;
+}
+
+#teste{
+    position: relative;
+    width: 100%;
+    border-radius: 4px;
+}
+#layout1{
+    position: relative;
+    left: 250px;
+}

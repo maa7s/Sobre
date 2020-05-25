@@ -1,0 +1,18 @@
+#box{
+    position: relative;
+    top: 80px;
+    padding: 4rem;
+}
+p{
+   font-family: Arial;
+   font-size: 25px;
+   border-bottom: 4px solid #cc777d;
+   margin-bottom: 10px;
+   padding-bottom: 9px; 
+}
+h1{
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+    border-bottom: 4px solid #d38276 ;
+}
+
